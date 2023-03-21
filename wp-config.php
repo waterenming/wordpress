@@ -20,16 +20,16 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'database_name_here' );
+define( 'DB_NAME', 'cbgh6f6ml87aiuv5' );
 
 /** Database username */
-define( 'DB_USER', 'username_here' );
+define( 'DB_USER', 'oq4spe49jtsuur1k' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'password_here' );
+define( 'DB_PASSWORD', 'qx3jjhdiyqqpqrb5' );
 
 /** Database hostname */
-define( 'DB_HOST', 'https://onyva-travel.herokuapp.com/' );
+define( 'DB_HOST', 'r4wkv4apxn9btls2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
